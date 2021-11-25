@@ -1,6 +1,6 @@
 # Desempeño y resultados ERCE 2019
 
-### ERCE es la cuarta versión de nuestro Estudio Regional Comparativo y Explicativo, realizado en 2019 bajo la coordinación del Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE), el cual forma parte de la Oficina Regional de Educación para América Latina y el Caribe (OREALC/UNESCO Santiago). 
+### ERCE es la cuarta versión del Estudio Regional Comparativo y Explicativo, realizado en 2019 bajo la coordinación del Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE), el cual forma parte de la Oficina Regional de Educación para América Latina y el Caribe (OREALC/UNESCO Santiago). 
 
 Los archivos CSV disponibles en esta carpeta corresponden a los resultados por país de Factores Asociados seleccionados, y su influencia en el desempeño y resultado de los estudiantes participantes del ERCE 2019, utilizados para su visualización en el portal de datos [llecesunesco.org](www.lleceunesco.org). Por favor, considere:
 
