@@ -1,7 +1,3 @@
-# ERCE 2019
-
-La cuarta versión de nuestro Estudio Regional Comparativo y Explicativo del Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE) forma parte de la Oficina Regional de Educación para América Latina y el Caribe (OREALC/UNESCO Santiago)
-
 # Desempeño y resultados ERCE 2019
 
 ### ERCE es la cuarta versión de nuestro Estudio Regional Comparativo y Explicativo, realizado en 2019 bajo la coordinación del Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE), el cual forma parte de la Oficina Regional de Educación para América Latina y el Caribe (OREALC/UNESCO Santiago). 
